@@ -6,4 +6,8 @@
     <string name="action_settings">Settings</string>
     <string name="enable">Enable</string>
 	<string name="disable">Disable</string>
+	<string name="item_application_name">应用名称</string>
+	
+	<item type="id" name="tag_view"></item>
+    <item type="id" name="tag_info"></item>
 </resources>
